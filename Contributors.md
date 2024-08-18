@@ -25,6 +25,7 @@ i
 - [Sam Xia](https://github.com/samsmithspace)**Let him cook**
 - [thesilverwolfx]{https://github.com/thesilverwolfx} **it's 2024, here I am contributing for the first time.**
 - [Rishabh Raj Verma]{https://github.com/RishabhRaj43} **Just contributed for fun**
+- [Ronel Torregoza]{https://github.com/Lesterronel} **Just contributed for fun. My first open source contribution😎**
 -[Firoar]{https://github.com/Firoar}
 **Testing few things out**
 - [hiiii](https://github.com/2706mydhili/)**I am contributing for the first time
@@ -123,6 +124,7 @@ i
 - [Caleb Anderson](https://github.com/Canderson0115) **Amogus**
 - [Preeti Khamkar](https://github.com/p0203k)
 - [Glenn Fox](https://github.com/glenn-fox)
+- [Yehia Rasheed](https://github.com/yehiarasheed)
 - [Carlos Napoles Avila](https://github.com/napolesmoa1006)
 - [Srinidhi P Rao] (https://github.com/SrinidhiPRao) **First open source contributions of many more to come.**
 - [Umer Amjad](https://github.com/umer-amjad) **To try to make a difference...**
@@ -150,7 +152,8 @@ Parth Bhovad
 - [Mahumitha-b](https://github.com/madhumitha-b)
 - [MaksStuff](https://github.com/MaksStuff) **The first step into a career**
 - [Juan Calderon](https://github.com/JuanCalderon-17) **my first contribution, not giving up anytime soon**
-- [Vishruth23](https://github.com/Vishruth23) **First OSC**
+- [Vishruth23](https://github.com/Vishruth23) **First OSC** 
+- [Sweta]**NEWW**
 - [david gordon](https://github.com/dudigoo/) **second step**
 - [crabCatcher0](https://github.com/crabcatcher0/) **Learning**
 - [yuthadda](https://github.com/yuthadda)
